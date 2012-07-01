@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.AppOperaParser" Type="System.String" Value="AppOperaParser" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.typeDefSucc" Type="System.String" Value="typeDefSucc" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.typeDefBase" Type="System.String" Value="typeDefBase" Category="General" IsBrowsable="False" />
+</TgConfig>

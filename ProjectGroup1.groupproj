@@ -1,0 +1,48 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{8B5395D3-F5DE-418A-B551-9760B02EAEE8}</ProjectGuid>
+		</PropertyGroup>
+		<ItemGroup>
+			<Projects Include="AppOperaParser.dproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="opDLL.dproj">
+				<Dependencies/>
+			</Projects>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Default.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Default.Personality/>
+			</BorlandProject>
+		</ProjectExtensions>
+		<Target Name="AppOperaParser">
+			<MSBuild Projects="AppOperaParser.dproj"/>
+		</Target>
+		<Target Name="AppOperaParser:Clean">
+			<MSBuild Projects="AppOperaParser.dproj" Targets="Clean"/>
+		</Target>
+		<Target Name="AppOperaParser:Make">
+			<MSBuild Projects="AppOperaParser.dproj" Targets="Make"/>
+		</Target>
+		<Target Name="opDLL">
+			<MSBuild Projects="opDLL.dproj"/>
+		</Target>
+		<Target Name="opDLL:Clean">
+			<MSBuild Projects="opDLL.dproj" Targets="Clean"/>
+		</Target>
+		<Target Name="opDLL:Make">
+			<MSBuild Projects="opDLL.dproj" Targets="Make"/>
+		</Target>
+		<Target Name="Build">
+			<CallTarget Targets="AppOperaParser;opDLL"/>
+		</Target>
+		<Target Name="Clean">
+			<CallTarget Targets="AppOperaParser:Clean;opDLL:Clean"/>
+		</Target>
+		<Target Name="Make">
+			<CallTarget Targets="AppOperaParser:Make;opDLL:Make"/>
+		</Target>
+		<Import Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')" Project="$(BDS)\Bin\CodeGear.Group.Targets"/>
+	</Project>

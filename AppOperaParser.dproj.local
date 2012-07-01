@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.043,=F:\Институт\8 СЕМЕСТР\ООП\Kurs work\Project_with_DLL_ver 2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.928,F:\Институт\8 СЕМЕСТР\ООП\Kurs work\Project_with_DLL_ver 2\Unit1.pas=F:\Институт\8 СЕМЕСТР\ООП\Kurs work\Project_with_DLL_ver 2\typeDefGen.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.453,=F:\Институт\8 СЕМЕСТР\ООП\Kurs work\Project_with_DLL_ver 2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.451,C:\Users\papa W7\Documents\RAD Studio\Projects\Project4.dproj=F:\Институт\8 СЕМЕСТР\ООП\Kurs work\KR ver. 1.03\AppOperaParser.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.689,F:\Институт\8 СЕМЕСТР\ООП\Kurs work\KR ver. 1.03\operations.pas=F:\Институт\8 СЕМЕСТР\ООП\Kurs work\KR ver. 1.03\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.616,=F:\Институт\8 СЕМЕСТР\ООП\Kurs work\KR ver. 1.03\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.238,=F:\Институт\8 СЕМЕСТР\ООП\Kurs work\KR ver. 1.03\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.238,=F:\Институт\8 СЕМЕСТР\ООП\Kurs work\KR ver. 1.03\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.577,F:\Институт\8 СЕМЕСТР\ООП\Kurs work\Project_with_DLL_ver 2\Unit1.pas=F:\Институт\8 СЕМЕСТР\ООП\Kurs work\Project_with_DLL_ver 2\libdef.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.720,C:\Users\papa W7\Documents\RAD Studio\Projects\Unit4.dfm=F:\Институт\8 СЕМЕСТР\ООП\Kurs work\KR ver. 1.03\mainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.816,=F:\Институт\8 СЕМЕСТР\ООП\Kurs work\KR ver. 1.03\AppOperaParser.todo</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.150,=F:\Институт\8 СЕМЕСТР\ООП\Kurs work\KR ver. 1.03\New1.txt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.268,F:\Институт\8 СЕМЕСТР\ООП\Kurs work\KR ver. 1.03\typeDefBase.pas=F:\Институт\8 СЕМЕСТР\ООП\Kurs work\KR ver. 1.03\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.270,F:\Институт\8 СЕМЕСТР\ООП\Kurs work\Project_with_DLL_ver 2\typeDefGen.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.983,F:\Институт\8 СЕМЕСТР\ООП\Kurs work\KR ver. 1.03\Readme.txt=F:\Институт\8 СЕМЕСТР\ООП\Kurs work\KR ver. 1.03\New1.txt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.789,F:\Институт\8 СЕМЕСТР\ООП\Kurs work\Project_with_DLL_ver 2\libdef.pas=F:\Институт\8 СЕМЕСТР\ООП\Kurs work\Project_with_DLL_ver 2\header.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.580,=C:\Users\papa W7\Documents\RAD Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.061,F:\Институт\8 СЕМЕСТР\ООП\Kurs work\KR ver. 1.03\typeDefSucc.pas=F:\Институт\8 СЕМЕСТР\ООП\Kurs work\KR ver. 1.03\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.719,C:\Users\papa W7\Documents\RAD Studio\Projects\Unit4.pas=F:\Институт\8 СЕМЕСТР\ООП\Kurs work\KR ver. 1.03\mainUnit.pas</Transaction>
+    <Transaction>2012.06.29 08:50:33.701,=F:\Институт\8 СЕМЕСТР\ООП\Kurs work\Project_with_DLL_ver 2\typeDefGen.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="mainUnit.pas"/>
+    <File Path="mainUnit.dfm"/>
+    <File Path="operations.pas"/>
+    <File Path="Readme.txt"/>
+    <File Path="typeDefBase.pas"/>
+    <File Path="typeDefSucc.pas"/>
+    <File Path="header.pas"/>
+    <File Path="typeDefGen.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
